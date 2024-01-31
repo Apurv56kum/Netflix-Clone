@@ -9,10 +9,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Technology Used
 
-![192158954-f88b5814-d510-4564-b285-dff7d6400dad (1)](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/57cfa2cf-fcf5-4870-bd0f-759440a5163f) ![183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/71ba8780-343d-4f15-b4ea-9f5236b39be1)
-
-
-
+![192158954-f88b5814-d510-4564-b285-dff7d6400dad (1)](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/57cfa2cf-fcf5-4870-bd0f-759440a5163f) ![183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/71ba8780-343d-4f15-b4ea-9f5236b39be1) ![192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/ddef483a-e6f6-4a3c-aab3-36b43c48042d) ![192108891-d86b6220-e232-423a-bf5f-90903e6887c3](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/3bb6f422-9b38-4c25-a947-f380d4cd6d81)
 
 ## Features
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
