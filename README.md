@@ -6,8 +6,9 @@ This repository contains the code for building a Netflix-inspired home page usin
 ## Preview
 ![Screenshot (100)](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/f39e1908-d714-45ac-a921-89ae607d9897)
 ![Screenshot 2024-01-31 164335](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/82ff0cd3-3941-4b57-9839-6c5f01b81431)
+
 ## Live Url
-http://127.0.0.1:5500/index.html
+https://apurv56kum.github.io/Netflix-Clone/
 
 ## Technology Used
 ![148515](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/491247e3-4802-4345-86e2-f1318e7381f2) ![702306](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/1246a8a6-d6c2-4b0f-a129-9902605d2519)![3456772](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/735eafd3-9f9d-4b01-8558-9e30b48dbb5a) ![vs](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/b55940fe-c0c9-4b4d-a5a8-27cc3fd88e0a) ![download (1)](https://github.com/Apurv56kum/Netflix-Clone/assets/75967582/96520bae-e799-4c94-8243-80530fdd480d)
